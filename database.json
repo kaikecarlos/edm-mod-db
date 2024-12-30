@@ -1,1 +1,24 @@
-{"releases": []}
+{
+  "releases": [
+    {
+      "name": "SaveUtils",
+      "uniqueName": "kaikecarlos.SaveUtils",
+      "description": "Permite salvar a qualquer momento e usar mais de um save",
+      "downloadUrl": "https://github.com/kaikecarlos/SaveUtils/releases/download/v1.0.0/SaveUtils.zip",
+      "latestReleaseDate": "2024-12-30T20:05:21Z",
+      "firstReleaseDate": "2024-12-30T20:05:21Z",
+      "repo": "https://github.com/kaikecarlos/SaveUtils",
+      "version": "v1.0.0",
+      "author": "Kaike Carlos",
+      "latestReleaseDescription": "Apenas contém um log quando inicializa o mod",
+      "latestPrereleaseDescription": "",
+      "tags": [
+        "Utilidades"
+      ],
+      "slug": "saveutils",
+      "thumbnail": {},
+      "repoUpdatedAt": "2024-12-30T20:05:41Z",
+      "databaseEntryUpdatedAt": "2024-12-30T20:20:56.559Z"
+    }
+  ]
+}
