@@ -1,0 +1,21 @@
+name: "Get mods"
+description: "Gets mod releases"
+inputs:
+  out-directory:
+    description: "Directory where database files will be written to"
+    required: true
+  mods:
+    description: "Initial JSON mod database to modify"
+    required: true
+  previous-database:
+    description: "Previous version of the database.json output"
+    required: true
+  GITHUB_TOKEN:
+    description: "GitHub Token for Octokit authentication"
+    required: true
+outputs:
+  releases:
+    description: "JSON list of latest mod releases"
+runs:
+  using: "node16"
+  main: "../../scripts/build/update-database/index.js"

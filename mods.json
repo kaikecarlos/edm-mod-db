@@ -1,0 +1,14 @@
+{
+    "mods": [
+        {
+            "name": "SaveUtils",
+            "author": "Kaike Carlos",
+            "description": "Permite salvar a qualquer momento e usar mais de um save",
+            "repo": "kaikecarlos/SaveUtils",
+            "tags": [
+                "Utilidades"
+            ],
+            "uniqueName": "kaikecarlos.SaveUtils"
+        }
+    ]
+}
